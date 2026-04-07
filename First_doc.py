@@ -8,3 +8,5 @@ hello_world()
 a=0
 print(a)
 what_an_amazing_word()
+
+print("This is the end of the program.")
